@@ -1,0 +1,5 @@
+0 Plastic bottle
+1 Glass bottle
+2 Plastic bag
+3 Plastic container
+4 Tin
