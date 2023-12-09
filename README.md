@@ -7,5 +7,5 @@
 - discord
 - Pillow
 ## Референсы, на основе которых я сделал проект:
-- Мой SCP проект
+- [Мой SCP проект](https://colab.research.google.com/drive/1BGktw1lEKGzjXa_3RS0A67KZRz42R0k0?usp=sharing)
 - [Мой проект с дискорд-ботом ,который определяет ландшафт по картинке](https://github.com/Pypsick228/rep.git)
